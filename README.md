@@ -232,15 +232,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 📸 Screenshots
 
-Add screenshots here.
-
-- Home Page
-- Prediction Result
-- Confusion Matrix
-- ROC Curve
-- Feature Importance
 
 ---
 
@@ -274,7 +266,7 @@ Through this project, the following concepts were implemented:
 
 # 👨‍💻 Author
 
-**Vikram**
+**Mitranjan Kumar**
 
 B.Tech CSE (Data Science)
 
