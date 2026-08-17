@@ -164,7 +164,7 @@ A Flask-based machine learning web app that predicts loan approval status using 
 
 ## Author
 
-Mitranjan Kumar
+Sarfaraj Alam
 
 B.Tech CSE (Data Science)  
 Meerut Institute of Technology
